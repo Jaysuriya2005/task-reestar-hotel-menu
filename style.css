@@ -1,0 +1,94 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    padding: 30px;
+
+}
+
+.container {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.head {
+    text-align: center;
+    background-color: black;
+    color: white;
+
+}
+
+.head__title {
+    color: white;
+}
+
+.head p {
+    display: inline-block;
+    width: 50px;
+    color: light;
+    margin-bottom: 20px;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.briyani1 {
+    border: solid black 3px;
+}
+
+.pizza {
+    border: solid black 3px;
+}
+
+.noodles {
+    border: solid black 3px;
+}
+
+.friedrice {
+    border: solid black 3px;
+}
+
+.briyani1__button,
+.pizza__button,
+.noodles__button,
+.friedrice__button {
+    background-color: black;
+    color: aliceblue;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.img p {
+    text-align: center;
+    padding: 20px;
+}
+
+.contact {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.contact table {
+    display: inline-block;
+    margin: auto;  
+}
+
+.send {
+    background-color: yellow;
+    color: black;
+    width: 400px;
+    margin: auto;
+}
