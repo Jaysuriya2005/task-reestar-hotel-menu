@@ -16,7 +16,9 @@ Clean black theme UI
 🛠️ Technologies Used
 
 HTML5
+
 CSS3
+
 Flexbox layout
 
 📂 Project Structure
