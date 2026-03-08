@@ -17,6 +17,7 @@ Contact form to collect user information
 
 Clean black theme UI
 
+
 🛠️ Technologies Used
 
 HTML5
@@ -24,6 +25,7 @@ HTML5
 CSS3
 
 Flexbox layout
+
 
 📂 Project Structure
 Reestar
@@ -34,6 +36,8 @@ Reestar
 ├── pizza.jpeg
 ├── noodles.jpeg
 └── friedrice.jpg
+
+
 🍜 Food Items Displayed
 
 Briyani
@@ -49,6 +53,7 @@ Each item includes:
 Food image
 
 "Order Now" button
+
 
 📞 Contact Section
 
